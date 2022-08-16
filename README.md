@@ -8,7 +8,7 @@ Because the p-value of the summary is less than 0.05, we can also reject the nul
 The multiple r-squared value of 0.7149 indicates tht 71% of the model can explain the relationship between MPG and the independent variables. This indicates that, while there is room for improvement, it provides a sufficient model that can be used to help predict the performance of future prototypes
 
 ## Summary Statistics on Suspension Coils
-![total_stats](/Resources/Total_PSI_Summary.PNG
+![total_stats](/Resources/Total_PSI_Summary.PNG)
 ![lot_stats](/Resources/Lot_PSI_Summary.PNG)
 
 The PSI variance across all lots is reportedly 62.3, indicating that the lots overall are compliant with expectations. However, when we look at each lot individually, we see that Lot3 is not compliant with the design specifications due to a variance of 170.3.
